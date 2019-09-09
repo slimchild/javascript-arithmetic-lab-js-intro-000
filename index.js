@@ -35,5 +35,6 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
+  var n = '0.02345';
   return parseFloat('n');
 }
